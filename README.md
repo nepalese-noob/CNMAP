@@ -20,7 +20,7 @@ git clone https://github.com/nepalese-noob/CNMAP-GUI-
 *cd CNMAP-GUI-
 
 
-*bash cnmap.sh
+* python3 cnmap.py
 
 
 

@@ -25,7 +25,14 @@ git clone https://github.com/nepalese-noob/CNMAP-GUI-
 
 
 
-And boom|
+And boom!
+
+Best wishes :
+Hawkhacker 
+Twinkle sharma 
+Mr. Aayus
+Aur Me khud🤭🤭
+
 
 
 

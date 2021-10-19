@@ -6,18 +6,26 @@ we hope you will do your things fastly by helping of this tool.
 best of 🤘🤘🤘luck
 
 #to use this tool on android, first copy and paste this url on chrome*
+.
 *https://termuxteachhindi.school.blog/install-kali-nethunter-in-android-phone-using-termux
-
+.
 *open terminal on kali nethunter on your android.
 and clone this url
+
+
 git clone https://github.com/nepalese-noob/CNMAP-GUI-
+
+.
+
 *cd CNMAP-GUI-
+
+
 *bash cnmap.sh
 
 
 
 
-
+And boom|
 
 
 

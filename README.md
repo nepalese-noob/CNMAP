@@ -43,10 +43,15 @@ And clone our tool by
 
 
 *.  git clone https://github.com/nepalese-noob/CNMAP-GUI-
+
 *.  cd CNMAP-GUI-
+
 *.  sudo apt-get install python3-tk (password: kali)
+
 *.  sudo easy_install pip
+
 *.  sudo pip install pillow
+
 *.  python3 cnmap.py
 
 And boom!

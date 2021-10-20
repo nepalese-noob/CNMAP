@@ -5,32 +5,60 @@ heartbleed scanning, mac spoofing, tcp scanning, udp scanning and so more.
 we hope you will do your things fastly by helping of this tool. 
 best of 🤘🤘🤘luck
 
-#to use this tool on android, first copy and paste this url on chrome*
-.
-*https://termuxteachhindi.school.blog/install-kali-nethunter-in-android-phone-using-termux
-.
-*open terminal on kali nethunter on your android.
-and clone this url
+#to use this tool on android, do the following on termux.
+*.  apt update
+
+*.  apt upgrade
+
+*.  apt install wget
+
+*.  wget https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project/raw/master/nethunter-rootless/install-nethunter-termux
+
+*.  chmod +x install-nethunter-termux
+
+*.  ./install-nethunter-termux
+
+(After that wait sometimes and if it ask for any kind of information then give it.)
+
+After completing setting up
+
+Type....
+
+*.  nh kex (first time it must be ask for set password, just set a new password )
+
+Note: if "nh kex" show "no matching vncserver" and doesnot start,
+Then simply search the solution on youtube.
+
+Now download vncserver
+Open it
+Start
+Set address (127.0.0.1:5901) (sometimes 5901 must be 5902)
+And fill any name and start
+
+And boom your desktop created|
+
+Now open terminal there 
+
+And clone our tool by 
 
 
-git clone https://github.com/nepalese-noob/CNMAP-GUI-
-
-.
-
-*cd CNMAP-GUI-
-
-
-* python3 cnmap.py
-
-
-
+*.  git clone https://github.com/nepalese-noob/CNMAP-GUI-
+*.  cd CNMAP-GUI-
+*.  sudo apt-get install python3-tk (password: kali)
+*.  sudo easy_install pip
+*.  sudo pip install pillow
+*.  python3 cnmap.py
 
 And boom!
 
 Best wishes :
+
 Hawkhacker 
+
 Twinkle sharma 
+
 Mr. Aayus
+
 Aur Me khud🤭🤭
 
 

@@ -6,6 +6,7 @@ we hope you will do your things fastly by helping of this tool.
 best of 🤘🤘🤘luck
 
 #to use this tool on android, do the following on termux.
+
 *.  apt update
 
 *.  apt upgrade

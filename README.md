@@ -18,7 +18,7 @@ best of 🤘🤘🤘luck
 
 *.  ./install-nethunter-termux
 
-(After that wait sometimes and if it ask for any kind of information then give it.)
+(After that wait sometimes and if it ask for any kind of permision then give it.)
 
 After completing setting up
 

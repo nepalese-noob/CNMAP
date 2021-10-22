@@ -52,7 +52,7 @@ And clone our tool by
 *.  sudo easy_install pip
 
 *.  sudo pip install pillow
-
+*.  sudo apt-get install python3-tk
 *.  python3 cnmap.py
 
 And boom!
